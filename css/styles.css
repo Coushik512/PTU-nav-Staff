@@ -1,0 +1,18 @@
+h1{
+  text-align: center;
+
+}
+h4,p
+{
+  text-align: center;
+  font-size: 12px;
+}
+body{
+  text-align: center;
+
+  height:30px;
+}
+img{
+  height: 100px;
+  width:100px;
+}
